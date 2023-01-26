@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi there 👋</h1>
 
-[![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuicatl&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=E059B2)](https://github.com/ihuicatl)
+<!-- [![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuicatl&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=E059B2)](https://github.com/ihuicatl)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihuicatl&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=E059B2&layout=compact&langs_count=8)](https://github.com/ihuicatl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihuicatl&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=E059B2&layout=compact&langs_count=8)](https://github.com/ihuicatl) -->
 
 <!--
 **ihuicatl/ihuicatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
